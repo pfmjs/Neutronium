@@ -1,0 +1,1 @@
+pyinstaller Neutronium.py --onefile --icon=icon.ico -w --clean --noconfirm --upx-dir=c:\Users\Lenovo\Downloads\upx-5.0.0-win32\upx.exe

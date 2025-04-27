@@ -1,0 +1,11 @@
+{
+  "name": "neutronium",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Neutronium. The Electron alternative which uses python instead of C++"
+}
