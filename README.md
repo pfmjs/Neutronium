@@ -1,2 +1,2 @@
 # Neutronium
-Neutronium. The Electron alternative which uses python instead of C++
+Neutronium. The Electron alternative which uses JavaScript instead of C++
