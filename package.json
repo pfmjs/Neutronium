@@ -1,11 +1,18 @@
 {
   "name": "neutronium",
   "version": "1.0.0",
+  "main": "Neutronium.js",
   "scripts": {
-    "start": "node Index.js"
+    "start": "node server.mjs & node Neutronium.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Neutronium. The Electron alternative which uses python instead of C++"
+  "description": "Neutronium. The Electron alternative which uses python instead of C++",
+  "dependencies": {
+    "express": "^5.1.0",
+    "open": "^10.1.1",
+    "webview": "^1.1.0"
+  },
+  "type": "commonjs"
 }
